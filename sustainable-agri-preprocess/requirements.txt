@@ -1,0 +1,14 @@
+# Core
+jupyter
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# Kaggle API
+kaggle
+
+# Optional geospatial/remote sensing (comment out if not needed)
+# geopandas
+# rasterio
+# shapely
